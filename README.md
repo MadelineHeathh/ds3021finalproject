@@ -1,3 +1,4 @@
 # ds3021finalproject
+**Group Members:** Madeline Heath and James Torgerson
 
-[slides](https://docs.google.com/presentation/d/18r00YG-07MCV3QmraCNj0WXArTaqEfN6Y5nlfVR3Hpo/edit?usp=sharing) <-- working link
+Slides for Q4 can be found in the `DS3021-FinalProject.pdf` file.
